@@ -25,3 +25,7 @@ Identify peak sales months
 Find top-performing retailers
 Analyze which regions drive the most revenue
 Understand preferred customer buying methods
+
+
+<img width="1502" height="790" alt="Screenshot 2026-02-02 190424" src="https://github.com/user-attachments/assets/07648768-fa1c-4eb6-9209-2398d7472b3d" />
+
