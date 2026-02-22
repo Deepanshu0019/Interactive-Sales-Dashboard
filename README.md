@@ -1,5 +1,5 @@
-# Interactive-Sales-Dashboard-using-excel
-An interactive Excel dashboard showcasing Adidas US sales performance with dynamic filters for year, region, and product. Visualize monthly revenue trends, retailer contributions, regional sales distribution, and sales methods through charts and maps for quick, data-driven insights.
+# Interactive-Sales-Dashboard
+An interactive Excel,Power Bi dashboard showcasing Adidas US sales performance with dynamic filters for year, region, and product. Visualize monthly revenue trends, retailer contributions, regional sales distribution, and sales methods through charts and maps for quick, data-driven insights.
 
 Features
 
@@ -17,6 +17,7 @@ Product Categories (Men’s & Women’s Apparel and Footwear)
 Requirements
 
 Microsoft Excel 2019 or later (recommended for full interactivity)
+Microsoft Power BI
 Enable editing and macros (if prompted)
 
 Data Insights You Can Get
