@@ -1,5 +1,6 @@
 👟 Adidas US Sales Performance Dashboard
 
+US_Sales.pbix (Power Bi)
 
 <img width="480" height="480" alt="Screenshot 2026-04-09 152544" src="https://github.com/user-attachments/assets/d27e50d1-eaab-48b6-bf83-71116248a256" />
 
